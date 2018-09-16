@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<ConsoleCatalog>
+    <console id="Espoir">
+        <name>Espoir</name>
+        <price>499.99</price>
+        <image>Espoir.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+        </accessories>
+    </console>
+
+    <console id="lois_caron">
+        <name>lois_caron</name>
+        <price>599.99</price>
+        <image>lois_caron.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+			<accessory>xbox360_vb</accessory>
+			<accessory>xbox360_rs</accessory>
+			<accessory>xbox360_mp</accessory>
+			<accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="gucci">
+        <name>gucci</name>
+        <price>699.99</price>
+        <image>gucci.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="M2">
+        <name>M2</name>
+        <price>299.99</price>
+        <image>M2.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+        </accessories>
+    </console>
+
+    <console id="MVMT">
+        <name>MVMT</name>
+        <price>399.99</price>
+        <image>MVMT.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="QVC">
+        <name>QVC</name>
+        <price>799.99</price>
+        <image>gucci.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="Radiuz">
+        <name>Radiuz</name>
+        <price>499.99</price>
+        <image>Radiuz.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="shopclues">
+        <name>shopclues</name>
+        <price>199.99</price>
+        <image>shopclues.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+        </accessories>
+    </console>
+
+    <console id="fitnessWatch">
+        <name>MTIOV</name>
+        <price>169.99</price>
+        <image>fitnessWatch.jpg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="TITAN">
+        <name>TITAN</name>
+        <price>429.99</price>
+        <image>TITAN.jpeg</image>
+        <manufacturer>a</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+
+    <!-- Smart watches-->
+
+    <console id="A1">
+        <name>A1</name>
+        <price>149.99</price>
+        <image>A1.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="apple">
+        <name>apple</name>
+        <price>249.99</price>
+        <image>apple.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="bluetooth">
+        <name>bluetooth_watch</name>
+        <price>349.99</price>
+        <image>bluetooth.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="Lenovo">
+        <name>Lenovo</name>
+        <price>79.99</price>
+        <image>Lenovo.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="Samsung">
+        <name>Samsung</name>
+        <price>129.99</price>
+        <image>Samsung.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="Snapdeal">
+        <name>Snapdeal</name>
+        <price>199.99</price>
+        <image>Snapdeal.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="Sony">
+        <name>Sony</name>
+        <price>209.99</price>
+        <image>Sony.jpeg</image>
+        <manufacturer>Sbony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="xiaomi">
+        <name>xiaomi</name>
+        <price>99.99</price>
+        <image>xiaomi.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="Xiaomi2">
+        <name>Xiaomi2</name>
+        <price>109.99</price>
+        <image>Xiaomi2.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+        </accessories>
+    </console>
+
+    <console id="Y1">
+        <name>Y1</name>
+        <price>149.99</price>
+        <image>Y1.jpeg</image>
+        <manufacturer>b</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+        </accessories>
+    </console>
+
+    <!--headphone -->
+
+    <console id="Beoplay">
+        <name>Beoplay</name>
+        <price>249.99</price>
+        <image>Beoplay.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="Bose">
+        <name>Bose</name>
+        <price>249.99</price>
+        <image>Bose.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="JBL">
+        <name>JBL</name>
+        <price>249.99</price>
+        <image>JBL.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="JBL_White">
+        <name>JBL_White</name>
+        <price>249.99</price>
+        <image>JBL_White.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="KingSton">
+        <name>KingSton</name>
+        <price>249.99</price>
+        <image>KingSton.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="solo3_black">
+        <name>solo3_black</name>
+        <price>249.99</price>
+        <image>solo3_black.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+    <console id="solo3_white">
+        <name>solo3_white</name>
+        <price>249.99</price>
+        <image>solo3_white.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="sony_xm2">
+        <name>sony_xm2</name>
+        <price>249.99</price>
+        <image>sony_xm2.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="studio_red">
+        <name>studio_red</name>
+        <price>249.99</price>
+        <image>studio_red.jpeg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="headphone">
+        <name>Apple solo3</name>
+        <price>259.99</price>
+        <image>headphone.jpg</image>
+        <manufacturer>c</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <!--Virtual Reality -->
+    <console id="vr1">
+        <name>vr1</name>
+        <price>199.99</price>
+        <image>vr1.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr2">
+        <name>vr2</name>
+        <price>299.99</price>
+        <image>vr2.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr3">
+        <name>vr3</name>
+        <price>399.99</price>
+        <image>vr3.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr4">
+        <name>vr4</name>
+        <price>259.99</price>
+        <image>vr4.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr5">
+        <name>vr5</name>
+        <price>379.99</price>
+        <image>vr5.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr6">
+        <name>vr6</name>
+        <price>239.99</price>
+        <image>vr6.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr7">
+        <name>vr7</name>
+        <price>429.99</price>
+        <image>vr7.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr8">
+        <name>vr8</name>
+        <price>179.99</price>
+        <image>vr8.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr9">
+        <name>vr9</name>
+        <price>699.99</price>
+        <image>vr9.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="vr10">
+        <name>vr10</name>
+        <price>99.99</price>
+        <image>vr10.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <!--Pet Tracker -->
+
+    <console id="pt1">
+        <name>pt1</name>
+        <price>49.99</price>
+        <image>pt1.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt2">
+        <name>pt2</name>
+        <price>39.99</price>
+        <image>pt2.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt3">
+        <name>pt3</name>
+        <price>59.99</price>
+        <image>pt3.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt4">
+        <name>pt4</name>
+        <price>79.99</price>
+        <image>pt4.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt5">
+        <name>pt5</name>
+        <price>39.99</price>
+        <image>pt5.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt6">
+        <name>pt6</name>
+        <price>89.99</price>
+        <image>pt6.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+    <console id="pt7">
+        <name>pt7</name>
+        <price>29.99</price>
+        <image>pt7.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt8">
+        <name>pt8</name>
+        <price>89.99</price>
+        <image>pt8.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt9">
+        <name>pt9</name>
+        <price>49.99</price>
+        <image>pt9.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+    <console id="pt10">
+        <name>pt10</name>
+        <price>49.99</price>
+        <image>pt10.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+
+
+</ConsoleCatalog>
+
+    <!-- laptop-->
+<TabletCatalog>
+    <tablet id="macbook">
+        <name>macbook pro</name>
+        <price>1689.99</price>
+        <image>macbook.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="AlienWare">
+        <name>AlienWare</name>
+        <price>1999.99</price>
+        <image>AlienWare.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="SurfaceBook">
+        <name>SurfaceBook</name>
+        <price>999.99</price>
+        <image>SurfaceBook.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Dell">
+        <name>Dell</name>
+        <price>699.99</price>
+        <image>Dell.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="HP">
+        <name>HP</name>
+        <price>599.99</price>
+        <image>HP.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+
+    <tablet id="iMAC">
+        <name>iMAC</name>
+        <price>1799.99</price>
+        <image>iMAC.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Lenovo">
+        <name>Lenovo</name>
+        <price>989.99</price>
+        <image>Lenovo.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="MSI">
+        <name>MSI</name>
+        <price>1879.99</price>
+        <image>MSI.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="SurfaceBook">
+        <name>SurfaceBook</name>
+        <price>899.99</price>
+        <image>SurfaceBook.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Samsung">
+        <name>Samsung</name>
+        <price>999.99</price>
+        <image>Samsung.jpeg</image>
+        <manufacturer>g</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+</TabletCatalog>
+
+<!-- phones -->
+<GamesCatalog>
+
+<game id="iphone5">
+        <name>iphone5</name>
+        <price>270.99</price>
+        <image>iphone5.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="iphone6">
+        <name>iphone6</name>
+        <price>380.99</price>
+        <image>iphone6.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</game>
+
+    <game id="iphone8">
+        <name>iphone8</name>
+        <price>750.99</price>
+        <image>iphone8.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="iphonex">
+        <name>iphonex</name>
+        <price>999.99</price>
+        <image>iphonex.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="NokiaLumia">
+        <name>NokiaLumia</name>
+        <price>299.99</price>
+        <image>NokiaLumia.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="Note6">
+        <name>Note6</name>
+        <price>539.99</price>
+        <image>Note6.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </game>
+
+    <game id="oppoV">
+        <name>oppoV</name>
+        <price>699.99</price>
+        <image>oppoV.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+    </game>
+
+<game id="Samsung8">
+        <name>Samsung8</name>
+        <price>699.99</price>
+        <image>Samsung8.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+
+<game id="Samsung9">
+        <name>Samsung9</name>
+        <price>799.99</price>
+        <image>Samsung9.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+
+    <game id="ZTE">
+        <name>ZTE</name>
+        <price>479.99</price>
+        <image>ZTE.jpeg</image>
+        <manufacturer>f</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </game>
+
+</GamesCatalog>
+
+<!--VoiceAssistant-->
+
+<VoiceAssistant>
+    <voice id="">
+        <name></name>
+        <price>479.99</price>
+        <image>.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voice>
+
+    <voice id="">
+        <name></name>
+        <price>479.99</price>
+        <image>.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </voice>
+
+</VoiceAssistant>
+
+    <!-- Accessory -->
+
+<AccessoryCatalog>
+
+    <accessory id="xboxone_wc">
+        <name>Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_sh">
+        <name>Turtle Beach Headset</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_vb">
+        <name>joystick</name>
+        <price>89.99</price>
+        <image>joystick.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_kg">
+        <name>Keypad</name>
+        <price>89.99</price>
+        <image>keypad.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_rs">
+        <name>Starterkit</name>
+        <price>89.99</price>
+        <image>starterkit.jpeg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_mp">
+        <name>Wireless adpter</name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_mc">
+        <name>Wireless </name>
+        <price>89.99</price>
+        <image>wirelessadapter.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+
+    <accessory id="xbox360_wc">
+        <name>XBOX Speeding Wheel</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>XBOX Wireless Adapter</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 	 <accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_kg">
+        <name>Charger</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+  
+
+</AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>

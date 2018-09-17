@@ -219,6 +219,12 @@ public class Utilities extends HttpServlet{
 			OrderItem orderitem = new OrderItem(tablet.getName(), tablet.getPrice(), tablet.getImage(), tablet.getRetailer());
 			orderItems.add(orderitem);
 		}
+		if (type.equals("speakers")){
+			Speaker speaker = null;
+			speaker =SaxParserDataStore.speakers.get(name);
+			OrderItem orderitem = new OrderItem(speaker.getName(),speaker.getPrice(),speaker.getImage(),speaker.getRetailer());
+			orderItems.add(orderitem);
+		}
 		if(type.equals("accessories")){	
 			Accessory accessory = SaxParserDataStore.accessories.get(name); 
 			OrderItem orderitem = new OrderItem(accessory.getName(), accessory.getPrice(), accessory.getImage(), accessory.getRetailer());
@@ -297,7 +303,11 @@ public class Utilities extends HttpServlet{
 			hm.putAll(SaxParserDataStore.tablets);
 			return hm;
 	}
-	
+	public HashMap<String,Speaker> getSpeakers(){
+			HashMap<String,Speaker> hm = new HashMap<String, Speaker>();
+			hm.putAll(SaxParserDataStore.speakers);
+			return hm;
+	}
 	/* getProducts Functions returns the Arraylist of consoles in the store.*/
 
 	public ArrayList<String> getProducts(){
@@ -327,7 +337,14 @@ public class Utilities extends HttpServlet{
 		}
 		return ar;
 	}
-	
+
+	public ArrayList<String> getProductsSpeakers(){
+		ArrayList<String> ar = new ArrayList<String>();
+		for (Map.Entry<String,Speaker>entry: getSpeakers().entrySet()){
+			ar.add(entry.getValue().getName());
+		}
+		return ar;
+	}
 	
 
 }

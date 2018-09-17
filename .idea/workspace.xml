@@ -6,7 +6,91 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3e85700-3a72-4421-968f-0c98c771dca5" name="Default Changelist" comment="" />
+    <list default="true" id="d3e85700-3a72-4421-968f-0c98c771dca5" name="Default Changelist" comment="update sep-16 8.30pm">
+      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StoreManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/headphone-accessory.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/headphone-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/laptop-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/laptop-accessory2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/phone-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/phone-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/pt-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/pt-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/vr-accessory.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/vr-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/vr-accessory3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/watch-accessory.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/watch-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/watch-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/watch-accessory3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessories/watch-accessory4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/headphone-accessory.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/headphone-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/laptop-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/laptop-accessory2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/phone-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/phone-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/vr-accessory.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/vr-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/vr-accessory3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/watch-accessory.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/watch-accessory1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/watch-accessory2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/watch-accessory3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/accessory/watch-accessory4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessoryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessoryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Carousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsoleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsoleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GamesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SaxParserDataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SaxParserDataStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TabletList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TabletList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/LeftNavigationBar.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/LeftNavigationBar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/ProductCatalog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/ProductCatalog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/AccessoryList.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/AccessoryList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Carousel.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Carousel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/CheckOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/CheckOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/ConsoleList.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/ConsoleList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/GamesList.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/GamesList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/SaxParserDataStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/SaxParserDataStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/TabletList.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/TabletList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Utilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Utilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/consoles/Espoir.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/consoles/PS4-console-bundle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/consoles/Wii-Console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/consoles/ps3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/consoles/xbox1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/consoles/xbox360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/games/activision_cod.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/games/activision_prot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/games/ea_fifa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/games/ea_nfs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/games/tti_evolve.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/games/tti_gta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker10.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/smartspeaker_folder/speaker9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/speaker_folder/speaker9.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/tablets/apple1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/tablets/apple2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/tablets/m1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/tablets/m2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/tablets/s1.jpg" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,39 +112,43 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="13" />
-          <entry key="java" value="104" />
-          <entry key="jpg" value="1" />
+          <entry key="html" value="16" />
+          <entry key="java" value="174" />
+          <entry key="jpeg" value="15" />
+          <entry key="jpg" value="5" />
           <entry key="jsp" value="1" />
           <entry key="txt" value="3" />
-          <entry key="xml" value="5" />
+          <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="13" />
-          <entry key="Image" value="1" />
-          <entry key="JAVA" value="104" />
+          <entry key="HTML" value="16" />
+          <entry key="Image" value="20" />
+          <entry key="JAVA" value="174" />
           <entry key="JSP" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="XML" value="5" />
+          <entry key="XML" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="12" />
-          <entry key="html" value="48" />
-          <entry key="java" value="350" />
-          <entry key="xml" value="1033" />
+          <entry key="dummy" value="13" />
+          <entry key="html" value="68" />
+          <entry key="java" value="1830" />
+          <entry key="txt" value="21" />
+          <entry key="xml" value="1315" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="12" />
-          <entry key="HTML" value="48" />
-          <entry key="JAVA" value="350" />
-          <entry key="XML" value="1033" />
+          <entry key="HTML" value="68" />
+          <entry key="JAVA" value="1830" />
+          <entry key="PLAIN_TEXT" value="34" />
+          <entry key="XML" value="1315" />
         </counts>
       </usages-collector>
     </session>
@@ -68,19 +156,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utilities.java">
+        <entry file="file://$PROJECT_DIR$/src/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2820">
-              <caret line="205" column="19" selection-start-line="205" selection-start-column="12" selection-end-line="205" selection-end-column="19" />
+            <state relative-caret-position="-723">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Account.java">
+        <entry file="file://$PROJECT_DIR$/web/ProductCatalog.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="60" column="119" selection-start-line="60" selection-start-column="119" selection-end-line="60" selection-end-column="119" />
+            <state relative-caret-position="744">
+              <caret line="1156" column="17" lean-forward="true" selection-start-line="1156" selection-start-column="17" selection-end-line="1156" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Registration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-222">
+              <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Accessory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ConsoleList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="102" column="12" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="12" />
+              <folding>
+                <element signature="e#886#903#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SaxParserDataStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1471">
+              <caret line="191" column="47" selection-start-line="191" selection-start-column="38" selection-end-line="191" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StoreManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+              <folding>
+                <element signature="e#1086#1100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -88,8 +248,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Console.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            <state relative-caret-position="-240">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
               <folding>
                 <element signature="e#1398#1399#0" expanded="true" />
                 <element signature="e#1416#1417#0" expanded="true" />
@@ -100,52 +260,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/ProductCatalog.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="878" column="18" selection-start-line="878" selection-start-column="18" selection-end-line="878" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/LeftNavigationBar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GamesList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="89" column="60" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TabletList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SaxParserDataStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2205">
-              <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -154,29 +276,59 @@
       <find>xbox one</find>
       <find>xbox oneS</find>
       <find>xbox</find>
-      <find>console</find>
       <find>Console</find>
       <find>CategoryName</find>
       <find>manufacturer</find>
+      <find>Sperker</find>
+      <find>console</find>
+      <find>consoles</find>
+      <find>image</find>
+      <find>Order</find>
+      <find>request</find>
+      <find>seSSION</find>
+      <find>SESSION</find>
+      <find>sales</find>
+      <find>customer</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Sperker</replace>
+      <replace>Speaker</replace>
+      <replace>speaker</replace>
+      <replace>speakers</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/WEB-INF/classes/Accessory.java" />
         <option value="$PROJECT_DIR$/web/style.css" />
-        <option value="$PROJECT_DIR$/src/Login.java" />
-        <option value="$PROJECT_DIR$/src/SaxParserDataStore.java" />
         <option value="$PROJECT_DIR$/src/Registration.java" />
-        <option value="$PROJECT_DIR$/src/Utilities.java" />
         <option value="$PROJECT_DIR$/src/ViewOrder.java" />
         <option value="$PROJECT_DIR$/web/Header.html" />
         <option value="$PROJECT_DIR$/src/Account.java" />
+        <option value="$PROJECT_DIR$/web/Content.html" />
+        <option value="$PROJECT_DIR$/src/Speaker.java" />
+        <option value="$PROJECT_DIR$/src/SperkerList.java" />
+        <option value="$PROJECT_DIR$/src/Utilities.java" />
+        <option value="$PROJECT_DIR$/web/LeftNavigationBar.html" />
         <option value="$PROJECT_DIR$/src/ConsoleList.java" />
         <option value="$PROJECT_DIR$/src/GamesList.java" />
-        <option value="$PROJECT_DIR$/web/LeftNavigationBar.html" />
         <option value="$PROJECT_DIR$/src/TabletList.java" />
+        <option value="$PROJECT_DIR$/src/SaxParserDataStore.java" />
+        <option value="$PROJECT_DIR$/src/SpeakerList.java" />
+        <option value="$PROJECT_DIR$/src/AccessoryList.java" />
         <option value="$PROJECT_DIR$/web/ProductCatalog.xml" />
+        <option value="$PROJECT_DIR$/src/CheckOut.java" />
+        <option value="$PROJECT_DIR$/src/Carousel.java" />
+        <option value="$PROJECT_DIR$/src/Cart.java" />
+        <option value="$PROJECT_DIR$/src/SalesMan.java" />
+        <option value="$PROJECT_DIR$/src/StoreManager.java" />
+        <option value="$PROJECT_DIR$/src/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Login.java" />
+        <option value="$PROJECT_DIR$/src/Console.java" />
       </list>
     </option>
   </component>
@@ -192,6 +344,12 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="12" />
@@ -228,6 +386,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -244,7 +403,18 @@
             <path>
               <item name="csp554Example" type="b2602c69:ProjectViewProjectNode" />
               <item name="csp554Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csp554Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csp554Example" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csp554Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csp554Example" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,21 +427,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537132414400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537225372985" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/images/accessories" />
       <recent name="$PROJECT_DIR$/web/images" />
       <recent name="$PROJECT_DIR$/web/images/watch_folder" />
       <recent name="$PROJECT_DIR$/web/images/headphone_folder" />
       <recent name="$PROJECT_DIR$/web/images/consoles" />
-      <recent name="$PROJECT_DIR$/web/WEB-INF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web/images/laptop_Folder" />
@@ -377,15 +547,16 @@
       <updated>1536982957557</updated>
       <workItem from="1536982961297" duration="6791000" />
       <workItem from="1537031626303" duration="14924000" />
-      <workItem from="1537120177917" duration="4361000" />
+      <workItem from="1537120177917" duration="26265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26076000" />
+    <option name="totallyTimeSpent" value="47980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -396,8 +567,8 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40140846" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32816902" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34507042" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,16 +576,16 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32921347" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32816902" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -459,112 +630,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update sep-16 8.30pm" />
+    <option name="LAST_COMMIT_MESSAGE" value="update sep-16 8.30pm" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/Accessory.java" />
-    <entry file="file://$PROJECT_DIR$/web/UserDetails.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Footer.html">
+    <entry file="file://$PROJECT_DIR$/src/Payment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="73">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Content.html">
+    <entry file="file://$PROJECT_DIR$/src/PrevAccessory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="-220">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/style.css">
+    <entry file="file://$PROJECT_DIR$/src/Trending.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/PaymentDetails.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="1066" column="31" selection-start-line="1066" selection-start-column="31" selection-end-line="1066" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Accessory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AccessoryList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Carousel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="82" column="83" selection-start-line="82" selection-start-column="83" selection-end-line="82" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Logout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NextAccessory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="-140">
+          <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -575,68 +663,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trending.java">
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/tablets/apple1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/tablets/apple2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker5.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker4.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker6.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker7.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker8.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker9.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/speaker_folder/speaker10.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GamesList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="84" column="4" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
+        <state relative-caret-position="235">
+          <caret line="80" column="61" selection-start-line="80" selection-start-column="61" selection-end-line="80" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/User.java">
+    <entry file="file://$PROJECT_DIR$/src/TabletList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="241">
+          <caret line="79" column="66" selection-start-line="79" selection-start-column="66" selection-end-line="79" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Registration.java">
+    <entry file="file://$PROJECT_DIR$/src/Speaker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="250">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrevAccessory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/headphone.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AutoCompleteServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrderItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrderPayment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OrdersHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ViewOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="163" column="76" lean-forward="true" selection-start-line="163" selection-start-column="76" selection-end-line="163" selection-end-column="76" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/charger.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Startup.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -645,48 +737,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Payment.java">
+    <entry file="file://$PROJECT_DIR$/web/LeftNavigationBar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="506">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AccessoryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="87" column="68" selection-start-line="87" selection-start-column="68" selection-end-line="87" selection-end-column="68" />
+          <folding>
+            <element signature="e#977#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpeakerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="126" column="68" selection-start-line="126" selection-start-column="68" selection-end-line="126" selection-end-column="68" />
+          <folding>
+            <element signature="e#920#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/watch-accessory4.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/watch-accessory3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/watch-accessory2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/watch-accessory1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/accessories/watch-accessory.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Carousel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-812">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViewOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="116" column="17" lean-forward="true" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/csp584/Lecture 4/S4/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/csp584/Lecture 4/S4/CatalogPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1367" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/csp584/Lecture 4/S4/ItemOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/csp584/Lecture 4/S4/OrderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="959">
+          <caret line="139" column="1" lean-forward="true" selection-start-line="139" selection-start-column="1" selection-end-line="139" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/csp584/Lecture 4/S4/ClientAccessCounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-347" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-777">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="972">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Header.html">
+    <entry file="file://$PROJECT_DIR$/web/ProductCatalog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="77" column="10" lean-forward="true" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+        <state relative-caret-position="744">
+          <caret line="1156" column="17" lean-forward="true" selection-start-line="1156" selection-start-column="17" selection-end-line="1156" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/watch_folder/fitnessWatch.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2820">
-          <caret line="205" column="19" selection-start-line="205" selection-start-column="12" selection-end-line="205" selection-end-column="19" />
+        <state relative-caret-position="134">
+          <caret line="159" column="32" selection-start-line="159" selection-start-column="32" selection-end-line="159" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Accessory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="60" column="119" selection-start-line="60" selection-start-column="119" selection-end-line="60" selection-end-column="119" />
+        <state relative-caret-position="-723">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <element signature="e#1086#1100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StoreManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SaxParserDataStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1471">
+          <caret line="191" column="47" selection-start-line="191" selection-start-column="38" selection-end-line="191" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Console.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="-240">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="20" />
           <folding>
             <element signature="e#1398#1399#0" expanded="true" />
             <element signature="e#1416#1417#0" expanded="true" />
@@ -696,48 +933,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SaxParserDataStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2205">
-          <caret line="173" column="50" selection-start-line="173" selection-start-column="50" selection-end-line="173" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConsoleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="102" column="12" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="12" />
           <folding>
             <element signature="e#886#903#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/LeftNavigationBar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GamesList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="89" column="60" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TabletList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ProductCatalog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="878" column="18" selection-start-line="878" selection-start-column="18" selection-end-line="878" selection-end-column="18" />
         </state>
       </provider>
     </entry>

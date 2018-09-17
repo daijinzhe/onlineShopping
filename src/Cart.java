@@ -57,22 +57,25 @@ public class Cart extends HttpServlet {
 		if(utility.CartCount()>0)
 		{
 			pw.print("<table  class='gridtable'>");
-			int i = 1;
+			int i = 1;int size=2;
 			double total = 0;
 			for (OrderItem oi : utility.getCustomerOrders()) 
 			{
-				pw.print("<tr>");
+				if (i%2==0) pw.print("<tr>");
 				pw.print("<td>"+i+".</td><td>"+oi.getName()+"</td><td>: "+oi.getPrice()+"</td>");
 				pw.print("<input type='hidden' name='orderName' value='"+oi.getName()+"'>");
 				pw.print("<input type='hidden' name='orderPrice' value='"+oi.getPrice()+"'>");
-				pw.print("</tr>");
+				if(i%2==0 || i == size) pw.print("</tr>");
 				total = total +oi.getPrice();
 				i++;
 			}
 			pw.print("<input type='hidden' name='orderTotal' value='"+total+"'>");	
 			pw.print("<tr><th></th><th>Total</th><th>"+total+"</th>");
+			pw.print("<tr><td></td><td></td><td><input type='submit' name='Order' value='CancelOrder' class='btnbuy'></td>");
 			pw.print("<tr><td></td><td></td><td><input type='submit' name='CheckOut' value='CheckOut' class='btnbuy' /></td>");
 			pw.print("</table></form>");
+
+
 			/* This code is calling Carousel.java code to implement carousel feature*/
 			pw.print(carousel.carouselfeature(utility));
 		}
@@ -80,7 +83,8 @@ public class Cart extends HttpServlet {
 		{
 			pw.print("<h4 style='color:red'>Your Cart is empty</h4>");
 		}
-		pw.print("</div></div></div>");		
+
+			pw.print("</div></div></div>");
 		utility.printHtml("Footer.html");
 	}
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

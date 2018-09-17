@@ -77,7 +77,7 @@ public class TabletList extends HttpServlet {
 		utility.printHtml("Header.html");
 		utility.printHtml("LeftNavigationBar.html");
 		pw.print("<div id='content'><div class='post'><h2 class='title meta'>");
-		pw.print("<a style='font-size: 24px;'>" + name + " Tablets</a>");
+		pw.print("<a style='font-size: 24px;'>" + name + " Laptops</a>");
 		pw.print("</h2><div class='entry'><table id='bestseller'>");
 		int i = 1;
 		int size = hm.size();

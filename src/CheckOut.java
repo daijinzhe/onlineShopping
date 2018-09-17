@@ -66,6 +66,8 @@ public class CheckOut extends HttpServlet {
 		pw.print("<input type='hidden' name='orderTotal' value='"+orderTotal+"'>");
 		pw.print("</td></tr></table><table><tr></tr><tr></tr>");	
 		pw.print("<tr><td>");
+		pw.print("Name</td>");
+		pw.print("<td><input type='text' name='userName'>");
      	pw.print("Credit/accountNo</td>");
 		pw.print("<td><input type='text' name='creditCardNo'>");
 		pw.print("</td></tr>");

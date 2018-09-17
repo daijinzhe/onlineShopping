@@ -45,9 +45,11 @@ public class SaxParserDataStore extends DefaultHandler {
     Game game;
     Tablet tablet;
     Accessory accessory;
+    Speaker speaker;
     static HashMap<String,Console> consoles;
     static HashMap<String,Game> games;
     static HashMap<String,Tablet> tablets;
+    static HashMap<String,Speaker> speakers;
     static HashMap<String,Accessory> accessories;
     String consoleXmlFileName;
 	HashMap<String,String> accessoryHashMap;
@@ -61,6 +63,7 @@ public class SaxParserDataStore extends DefaultHandler {
     consoles = new HashMap<String, Console>();
 	games=new  HashMap<String, Game>();
 	tablets=new HashMap<String, Tablet>();
+	speakers = new HashMap<String, Speaker>();
 	accessories=new HashMap<String, Accessory>();
 	accessoryHashMap=new HashMap<String,String>();
 	parseDocument();
@@ -126,6 +129,13 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 			game= new Game();
             game.setId(attributes.getValue("id"));
         }
+        if (elementName.equalsIgnoreCase("speaker"))
+		{
+			currentElement="speaker";
+			speaker = new Speaker();
+			speaker.setId(attributes.getValue("id"));
+		}
+
         if (elementName.equals("accessory") &&  !currentElement.equals("console"))
 		{
 			currentElement="accessory";
@@ -152,6 +162,11 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 			games.put(game.getId(),game);
 			return;
         }
+        if (element.equals("speaker"))
+		{
+			speakers.put(speaker.getId(),speaker);
+			return;
+		}
         if (element.equals("accessory") && currentElement.equals("accessory")) {
 			accessories.put(accessory.getId(),accessory);       
 			return; 
@@ -172,6 +187,8 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 				game.setImage(elementValueRead);
             if(currentElement.equals("tablet"))
 				tablet.setImage(elementValueRead);
+            if (currentElement.equals("speaker"))
+            	speaker.setImage(elementValueRead);
             if(currentElement.equals("accessory"))
 				accessory.setImage(elementValueRead);          
 			return;
@@ -185,6 +202,8 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 				game.setDiscount(Double.parseDouble(elementValueRead));
             if(currentElement.equals("tablet"))
 				tablet.setDiscount(Double.parseDouble(elementValueRead));
+            if (currentElement.equals("speaker"))
+            	speaker.setDiscount(Double.parseDouble(elementValueRead));
             if(currentElement.equals("accessory"))
 				accessory.setDiscount(Double.parseDouble(elementValueRead));          
 			return;
@@ -198,6 +217,8 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 				game.setCondition(elementValueRead);
             if(currentElement.equals("tablet"))
 				tablet.setCondition(elementValueRead);
+            if (currentElement.equals("speaker"))
+            	speaker.setCondition(elementValueRead);
             if(currentElement.equals("accessory"))
 				accessory.setCondition(elementValueRead);          
 			return;  
@@ -210,6 +231,8 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 				game.setRetailer(elementValueRead);
             if(currentElement.equals("tablet"))
 				tablet.setRetailer(elementValueRead);
+            if (currentElement.equals("speaker"))
+            	speaker.setRetailer(elementValueRead);
             if(currentElement.equals("accessory"))
 				accessory.setRetailer(elementValueRead);          
 			return;
@@ -222,6 +245,8 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 				game.setName(elementValueRead);
             if(currentElement.equals("tablet"))
 				tablet.setName(elementValueRead);
+            if (currentElement.equals("speaker"))
+            	speaker.setName(elementValueRead);
             if(currentElement.equals("accessory"))
 				accessory.setName(elementValueRead);          
 			return;
@@ -234,6 +259,8 @@ https://docs.oracle.com/javase/7/docs/api/org/xml/sax/helpers/DefaultHandler.htm
 				game.setPrice(Double.parseDouble(elementValueRead));
             if(currentElement.equals("tablet"))
 				tablet.setPrice(Double.parseDouble(elementValueRead));
+            if (currentElement.equals("speaker"))
+            	speaker.setPrice(Double.parseDouble(elementValueRead));
             if(currentElement.equals("accessory"))
 				accessory.setPrice(Double.parseDouble(elementValueRead));          
 			return;

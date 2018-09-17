@@ -11,13 +11,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xboxone_wc</accessory>
-            <accessory>xboxone_sh</accessory>
-			<accessory>xboxone_kg</accessory>
-            <accessory>xboxone_vb</accessory>
-			<accessory>xboxone_rs</accessory>
-            <accessory>xboxone_mp</accessory>
-			<accessory>xboxone_mc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -29,12 +27,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-			<accessory>xbox360_vb</accessory>
-			<accessory>xbox360_rs</accessory>
-			<accessory>xbox360_mp</accessory>
-			<accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -46,12 +43,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-            <accessory>xbox360_vb</accessory>
-            <accessory>xbox360_rs</accessory>
-            <accessory>xbox360_mp</accessory>
-            <accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -63,13 +59,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xboxone_wc</accessory>
-            <accessory>xboxone_sh</accessory>
-            <accessory>xboxone_kg</accessory>
-            <accessory>xboxone_vb</accessory>
-            <accessory>xboxone_rs</accessory>
-            <accessory>xboxone_mp</accessory>
-            <accessory>xboxone_mc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -81,12 +75,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-            <accessory>xbox360_vb</accessory>
-            <accessory>xbox360_rs</accessory>
-            <accessory>xbox360_mp</accessory>
-            <accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -98,12 +91,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-            <accessory>xbox360_vb</accessory>
-            <accessory>xbox360_rs</accessory>
-            <accessory>xbox360_mp</accessory>
-            <accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -115,12 +107,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-            <accessory>xbox360_vb</accessory>
-            <accessory>xbox360_rs</accessory>
-            <accessory>xbox360_mp</accessory>
-            <accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -132,13 +123,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xboxone_wc</accessory>
-            <accessory>xboxone_sh</accessory>
-            <accessory>xboxone_kg</accessory>
-            <accessory>xboxone_vb</accessory>
-            <accessory>xboxone_rs</accessory>
-            <accessory>xboxone_mp</accessory>
-            <accessory>xboxone_mc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -150,12 +139,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-            <accessory>xbox360_vb</accessory>
-            <accessory>xbox360_rs</accessory>
-            <accessory>xbox360_mp</accessory>
-            <accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -167,12 +155,11 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>xbox360_wc</accessory>
-            <accessory>xbox360_sh</accessory>
-            <accessory>xbox360_vb</accessory>
-            <accessory>xbox360_rs</accessory>
-            <accessory>xbox360_mp</accessory>
-            <accessory>xbox360_kg</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory1</accessory>
+            <accessory>watch-accessory2</accessory>
+            <accessory>watch-accessory3</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -187,7 +174,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps4_wc</accessory>
+            <accessory>watch-accessory</accessory>
+
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -199,7 +188,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps3_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -211,7 +201,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps4_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -223,7 +214,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps3_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -235,7 +227,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps4_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -247,7 +240,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps3_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -259,7 +253,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps4_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -271,7 +266,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps3_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -283,7 +279,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps4_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
@@ -295,11 +292,18 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>ps3_wc</accessory>
+            <accessory>watch-accessory</accessory>
+            <accessory>watch-accessory4</accessory>
         </accessories>
     </console>
 
+
+
+
     <!--headphone -->
+
+
+
 
     <console id="Beoplay">
         <name>Beoplay</name>
@@ -309,8 +313,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -322,8 +326,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -335,8 +339,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -348,8 +352,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -361,8 +365,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -374,8 +378,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
     <console id="solo3_white">
@@ -386,8 +390,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -399,8 +403,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -412,8 +416,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -425,8 +429,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>headphone-accessory</accessory>
+            <accessory>headphone-accessory1</accessory>
         </accessories>
     </console>
 
@@ -439,8 +443,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -452,8 +457,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -465,8 +471,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -478,8 +485,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -491,8 +499,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -504,8 +513,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -517,8 +527,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -530,8 +541,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -543,8 +555,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -556,8 +569,9 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>vr-accessory</accessory>
+            <accessory>vr-accessory2</accessory>
+            <accessory>vr-accessory3</accessory>
         </accessories>
     </console>
 
@@ -571,8 +585,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -584,8 +598,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -597,8 +611,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -610,8 +624,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -623,8 +637,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -636,8 +650,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
     <console id="pt7">
@@ -648,8 +662,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -661,8 +675,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -674,8 +688,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -687,8 +701,8 @@
         <condition>New</condition>
         <discount>10.0</discount>
         <accessories>
-            <accessory>nintendo_wc</accessory>
-            <accessory>nintendo_sh</accessory>
+            <accessory>pt-accessory1</accessory>
+            <accessory>pt-accessory2</accessory>
         </accessories>
     </console>
 
@@ -878,153 +892,229 @@
 
 <!--VoiceAssistant-->
 
-<VoiceAssistant>
-    <voice id="">
-        <name></name>
-        <price>479.99</price>
-        <image>.jpeg</image>
+<SpeakersCatalog>
+    <speaker id="speaker1">
+        <name>speaker1</name>
+        <price>279.99</price>
+        <image>speaker1.jpeg</image>
         <manufacturer>h</manufacturer>
         <condition>New</condition>
         <discount>15.0</discount>
-    </voice>
+    </speaker>
 
-    <voice id="">
-        <name></name>
-        <price>479.99</price>
-        <image>.jpeg</image>
+    <speaker id="speaker2">
+        <name>speaker2</name>
+        <price>379.99</price>
+        <image>speaker2.jpeg</image>
         <manufacturer>h</manufacturer>
         <condition>New</condition>
         <discount>15.0</discount>
-    </voice>
+    </speaker>
 
-</VoiceAssistant>
+    <speaker id="speaker3">
+        <name>speaker3</name>
+        <price>179.99</price>
+        <image>speaker3.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker4">
+        <name>speaker4</name>
+        <price>239.99</price>
+        <image>speaker4.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker5">
+        <name>speaker5</name>
+        <price>219.99</price>
+        <image>speaker5.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+
+    <speaker id="speaker6">
+        <name>speaker6</name>
+        <price>379.99</price>
+        <image>speaker6.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker7">
+        <name>speaker7</name>
+        <price>79.99</price>
+        <image>speaker7.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker8">
+        <name>speaker8</name>
+        <price>29.99</price>
+        <image>speaker8.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+
+    <speaker id="speaker9">
+        <name>speaker9</name>
+        <price>89.99</price>
+        <image>speaker9.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+    <speaker id="speaker10">
+        <name>speaker10</name>
+        <price>139.99</price>
+        <image>speaker10.jpeg</image>
+        <manufacturer>h</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </speaker>
+
+
+</SpeakersCatalog>
 
     <!-- Accessory -->
 
 <AccessoryCatalog>
 
-    <accessory id="xboxone_wc">
-        <name>Controller</name>
-        <price>89.99</price>
-        <image>XBOX controller.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+    <accessory id="watch-accessory">
+        <name>watch-accessory</name>
+        <price>9.99</price>
+        <image>watch-accessory.jpeg</image>
+        <manufacturer>a</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 
-    <accessory id="xboxone_sh">
-        <name>Turtle Beach Headset</name>
-        <price>89.99</price>
-        <image>Turtle Beach Headset.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+    <accessory id="watch-accessory1">
+        <name>watch-accessory</name>
+        <price>19.99</price>
+        <image>watch-accessory.jpeg</image>
+        <manufacturer>a</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 	 
-	 <accessory id="xboxone_vb">
-        <name>joystick</name>
-        <price>89.99</price>
-        <image>joystick.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+	 <accessory id="watch-accessory2">
+        <name>watch-accessory2</name>
+        <price>5.99</price>
+        <image>watch-accessory2.jpeg</image>
+        <manufacturer>a</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 
-    <accessory id="xboxone_kg">
-        <name>Keypad</name>
-        <price>89.99</price>
-        <image>keypad.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+    <accessory id="watch-accessory3">
+        <name>watch-accessory3</name>
+        <price>6.99</price>
+        <image>watch-accessory.jpeg</image>
+        <manufacturer>a</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 	 
-	 <accessory id="xboxone_rs">
-        <name>Starterkit</name>
-        <price>89.99</price>
-        <image>starterkit.jpeg</image>
-        <manufacturer>Microsoft</manufacturer>
+	 <accessory id="watch-accessory4">
+        <name>watch-accessory4</name>
+        <price>8.99</price>
+        <image>watch-accessory4.jpeg</image>
+        <manufacturer>a</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 
-    <accessory id="xboxone_mp">
-        <name>Wireless adpter</name>
-        <price>89.99</price>
-        <image>wirelessadapter.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+    <accessory id="phone-accessory1">
+        <name>phone-accessory1</name>
+        <price>9.99</price>
+        <image>phone-accessory1.jpeg</image>
+        <manufacturer>b</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 	 
-	 <accessory id="xboxone_mc">
-        <name>Wireless </name>
-        <price>89.99</price>
-        <image>wirelessadapter.jpg</image>
+	 <accessory id="phone-accessory2">
+        <name>phone-accessory2 </name>
+        <price>9.99</price>
+        <image>phone-accessory2.jpeg</image>
         <manufacturer>Microsoft</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 	 
 
-    <accessory id="xbox360_wc">
-        <name>XBOX Speeding Wheel</name>
-        <price>89.99</price>
-        <image>XBOX360-SpeedWheel.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+    <accessory id="headphone-accessory">
+        <name>headphone-accessory</name>
+        <price>19.99</price>
+        <image>headphone-accessory.jpeg</image>
+        <manufacturer>c</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 
-    <accessory id="xbox360_sh">
-        <name>XBOX Wireless Adapter</name>
-        <price>89.99</price>
-        <image>xbox360_wa.png</image>
-        <manufacturer>Microsoft</manufacturer>
+    <accessory id="headphone-accessory1">
+        <name>headphone-accessory</name>
+        <price>29.99</price>
+        <image>headphone-accessory.jpeg</image>
+        <manufacturer>c</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 	 
-	 <accessory id="xbox360_vb">
-        <name>Remote</name>
-        <price>89.99</price>
-        <image>remote.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
-        <condition>New</condition>
-        <discount>40.0</discount>
-     </accessory>
-	 	 <accessory id="xbox360_rs">
-        <name>messengerkit</name>
-        <price>89.99</price>
-        <image>messengerkit.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
-        <condition>New</condition>
-        <discount>40.0</discount>
-     </accessory>
-	 
-	 	 <accessory id="xbox360_mp">
-        <name>Steering</name>
-        <price>89.99</price>
-        <image>steering.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
-        <condition>New</condition>
-        <discount>40.0</discount>
-     </accessory>
-	 
-	 	 <accessory id="xbox360_kg">
-        <name>Charger</name>
-        <price>89.99</price>
-        <image>charger.jpg</image>
-        <manufacturer>Microsoft</manufacturer>
+	 <accessory id="vr-accessory">
+        <name>vr-accessory</name>
+        <price>19.99</price>
+        <image>vr-accessory.jpeg</image>
+        <manufacturer>d</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>
 
-    <accessory id="ps4_wc">
-        <name>PS Controller</name>
+    <accessory id="vr-accessory2">
+        <name>vr-accessory2</name>
+        <price>29.99</price>
+        <image>vr-accessory2.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="vr-accessory3">
+        <name>vr-accessory3</name>
+        <price>39.99</price>
+        <image>vr-accessory3.jpeg</image>
+        <manufacturer>d</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+    <accessory id="pt-accessory1">
+        <name>pt-accessory1</name>
         <price>89.99</price>
-        <image>XBOX controller.jpg</image>
-        <manufacturer>Sony</manufacturer>
+        <image>pt-accessory1.jpeg</image>
+        <manufacturer>e</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </accessory>
+
+    <accessory id="pt-accessory2">
+        <name>pt-accessory2</name>
+        <price>89.99</price>
+        <image>pt-accessory2.jpeg</image>
+        <manufacturer>e</manufacturer>
         <condition>New</condition>
         <discount>40.0</discount>
      </accessory>

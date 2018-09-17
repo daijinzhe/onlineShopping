@@ -33,9 +33,10 @@ public class Carousel{
 			hm.putAll(SaxParserDataStore.consoles);
 			name = "";
 		}
-		int l =0;
+		int l =0; int length=3;
 		for (OrderItem oi : utility.getCustomerOrders())
 		{
+		    if (l%2==1)sb.append("<tr>");
 			if (hm.containsKey(oi.getName()))
 			{	
 		        myCarousel = "myCarousel"+l;
@@ -63,7 +64,6 @@ public class Carousel{
 				Console console1 = hm.get(oi.getName());
 				System.out.print(oi.getName());
 				int k = 0; int size= hm.size();
-			
 				for(Map.Entry<String, String> acc:console1.getAccessories().entrySet())
 				{
 				
@@ -77,6 +77,7 @@ public class Carousel{
 					{
 						sb.append("<div class='item'><div class='col-md-6' style = 'background-color: #58acfa ;border :1px solid #cfd1d3' >");
 					}
+
 					sb.append("<div id='shop_item'>");
 					sb.append("<h3>"+accessory.getName()+"</h3>");
 					sb.append("<strong>"+accessory.getPrice()+"$</strong><ul>");
@@ -125,7 +126,9 @@ public class Carousel{
 			
 				sb.append("</div></div>");
 				sb.append("</div>");
-				l++;
+                if(l%2==0 || l == length) sb.append("</tr>");
+
+                l++;
 			
 				}
 			}

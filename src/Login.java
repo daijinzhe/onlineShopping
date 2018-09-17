@@ -48,8 +48,14 @@ public class Login extends HttpServlet {
 			HttpSession session = request.getSession(true);
 			session.setAttribute("username", user.getName());
 			session.setAttribute("usertype", user.getUsertype());
-			response.sendRedirect("Home");
+			if(user.getUsertype().equals("customer")){
+				response.sendRedirect("Home");
+				return;
+			}
+			else if (user.getUsertype().equals("retailer")){
+			response.sendRedirect("StoreManager");
 			return;
+			}
 			}
 		}
 		displayLogin(request, response, pw, true);
@@ -57,7 +63,8 @@ public class Login extends HttpServlet {
 
 	@Override
 	protected void doGet(HttpServletRequest request,
-			HttpServletResponse response) throws ServletException, IOException {
+			HttpServletResponse response) throws ServletException, IOException
+	{
 		response.setContentType("text/html");
 		PrintWriter pw = response.getWriter();
 		displayLogin(request, response, pw, false);

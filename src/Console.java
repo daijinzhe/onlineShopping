@@ -28,7 +28,8 @@ public class Console extends HttpServlet{
 	private String condition;
 	private double discount;
 	HashMap<String,String> accessories;
-	public Console(String name, double price, String image, String retailer,String condition,double discount){
+	public Console(String name, double price, String image, String retailer,String condition,double discount)
+	{
 		this.name=name;
 		this.price=price;
 		this.image=image;
